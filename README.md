@@ -6,7 +6,9 @@
 ->The goal of this project is to demonstrate data cleaning, transformation, analysis, and dashboard creation skills using Excel
 
 📁 Dataset
+
 •File Name: excel project
+
 •Data includes:
 ->Order ID
 ->Customer details
